@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![django badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)]
 
 now I'm learning ![flutter badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
+![typescript badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![firebase badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)

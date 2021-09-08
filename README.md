@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Miranaky's GitHub stats]](https://github-readme-stats.vercel.app/api?username=miranaky&hide=contribs,prs)
+[![Miranaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=miranaky&hide=contribs,prs)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="miranaky")](https://github.com/anuraghazra/github-readme-stats)
 
-![github badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)
+[![github badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)
 ![python badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![go badge](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white)
-![django badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+![django badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)]
 
 now I'm learning ![flutter badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Github&logoColor=white)

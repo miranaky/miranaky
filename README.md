@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![go badge](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white)
 ![django badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)]
 
-now I'm learning ![flutter badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Github&logoColor=white)
+now I'm learning ![flutter badge](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)

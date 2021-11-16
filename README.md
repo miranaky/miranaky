@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miranaky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miranaky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![github badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)
 ![python badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
